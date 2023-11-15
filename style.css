@@ -60,7 +60,7 @@ main#cuerpo {
 }
 
 #cuerpo #lado_izq {
-    background: url('/imgs/bg-1.png') center center / cover no-repeat;
+    background: url('imgs/bg-1.png') center center / cover no-repeat;
     height: 100vh;
     position: relative;
     width: 100%;
